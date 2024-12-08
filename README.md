@@ -1,1 +1,4 @@
-Das Texturepack für den besten Realm der Welt.
+# Das Texturepack für den besten Realm der Welt.
+
+
+- beinhaltet zwei Textur-Modi
