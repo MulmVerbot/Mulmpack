@@ -2,8 +2,8 @@
     "format_version": 2.1,
     "header": {
         "description": "Für den Besten Realm allerzeiten, §4Kann spuren von Soja, Milch und NSFW enthalten",
-        "name": "Mulmpack v.3.3.0",
-        "uuid": "69e3defb-6b28-7b26-ae77-ccceaedf56c1",
+        "name": "Mulmpack v.3.3.1",
+        "uuid": "4207940a-7b08-4c02-a650-332a0ac9c9d4",
         "version": [3, 3, 0],
         "min_engine_version": [ 1, 21, 0 ]
     },
@@ -11,8 +11,8 @@
         {
             "description": "Folgt mir auf Twitter, §4Kann spuren von Soja, Milch und NSFW enthalten",
             "type": "resources",
-            "uuid": "420ce420-21f8-4125-8755-71b1e618ac2c",
-            "version": [3, 3, 0]
+            "uuid": "7d41bd1d-adf6-4a72-9ff1-570d9d4c8eb4",
+            "version": [3, 3, 1]
         }
     ],
   "subpacks": [
